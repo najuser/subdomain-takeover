@@ -1,0 +1,15 @@
+https://account.np.ac.playstation.net/ 406-----
+change request headder
+
+
+https://a0.ww.sp-int.dl.playstation.net/  -403
+
+
+https://activity.api.np.km.playstation.net/
+
+https://api-stg.upro.playstation.net/ 401
+
+
+
+
+
